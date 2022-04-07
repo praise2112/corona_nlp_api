@@ -34,3 +34,6 @@ python corona_nlp_api.py --port 80
 ### Example
 `http://127.0.0.1:80/sentiment/I hate COVID`
 
+## Heroku API
+`https://tp4-nlp-api.herokuapp.com`
+
