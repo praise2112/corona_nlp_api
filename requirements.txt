@@ -1,0 +1,8 @@
+Keras-Preprocessing
+flask
+flask_cors
+werkzeug
+gunicorn
+nltk
+numpy
+onnxruntime
